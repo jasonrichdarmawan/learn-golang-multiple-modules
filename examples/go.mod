@@ -1,4 +1,4 @@
-module github.com/kidfrom/learn-golang-multiple-files/examples
+module github.com/kidfrom/learn-golang-multiple-modules/examples
 
 go 1.19
 
