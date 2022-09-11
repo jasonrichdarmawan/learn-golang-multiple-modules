@@ -8,6 +8,10 @@ import (
 )
 
 func main() {
+	Test()
+}
+
+func Test() {
 	hello.HelloWorld()
 	log.Println(stringutil.Reverse("Hello"))
 }
