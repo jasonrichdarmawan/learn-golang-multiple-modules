@@ -2,6 +2,6 @@ package hello
 
 import "log"
 
-func HelloWorld() {
-	log.Println("Hello World")
+func Hello() {
+	log.Println("Hello")
 }
